@@ -29,5 +29,5 @@ class BobObject {
       ellipse(0, 0, this.r, this.r);
       pop();
     }
-  };
+  }
   
